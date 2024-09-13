@@ -12,8 +12,8 @@ title                    : "Ville Hoikkala"
 title_separator          : "-"
 name                     : &name "Ville Hoikkala"
 description              : &description "Personal website of researcher and biotech founder Ville Hoikkala"
-url                      : https://villehoikkala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://vihoikka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/villehoikkala" # the subpath of your site, e.g. "/blog"
 repository               : "vihoikka/villehoikkala.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
