@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Molecular Biology, University of Jyväskylä (2020)
-* MSc in Molecular Biology, University of Jyväskylä (2016)
-* BSc in Molecular Biology (IT as minor), University of Jyväskylä (2012)
+* PhD in Cell and molecular biology, University of Jyväskylä (2020)
+* MSc in Cell and molecular biology, University of Jyväskylä (2016)
+* BSc in Cell and molecular biology (IT as minor), University of Jyväskylä (2012)
 
 Work experience
 ======
@@ -36,6 +36,7 @@ Skills
 * R
 * Shell/bash
 * Django fullstack development
+* PostgreSQL basics
 * Standard molecular biology lab skills (cultures, cloning, PCR, qPCR, Sanger sequencing, protein extraction and purification, gels...)
 
 Publications
